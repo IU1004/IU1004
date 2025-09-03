@@ -20,7 +20,7 @@
 
 ### 🧠 **About Me**
 
-I am a **Principal-Level Software Engineer** with over 9 years of experience architecting and delivering high-impact, scalable solutions across **healthtech, fintech, adtech, and e-commerce**. My expertise lies in transforming complex business challenges into robust, cloud-native systems by leveraging a deep full-stack skillset and cutting-edge technologies like **AI/ML, Blockchain, and Distributed Systems**.
+I am a **Principal-Level Software Engineer** with over 13 years of experience architecting and delivering high-impact, scalable solutions across **healthtech, fintech, adtech, and e-commerce**. My expertise lies in transforming complex business challenges into robust, cloud-native systems by leveraging a deep full-stack skillset and cutting-edge technologies like **AI/ML, Blockchain, and Distributed Systems**.
 
 I thrive on **technical leadership**: mentoring teams, driving architectural decisions, and establishing best practices for code quality, security, and DevOps excellence.
 
